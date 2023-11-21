@@ -3,6 +3,9 @@
 ```javascript
 console.log("Hello World!")
 ```
+![Super Mario](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
 <!--
 **diegoblancoruiz/diegoblancoruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
