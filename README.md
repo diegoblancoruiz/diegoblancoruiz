@@ -3,7 +3,19 @@
 ```javascript
 console.log("Hello World!")
 ```
-!(https://tenor.com/view/2d-mario-running-gif-5930085643515150510)
+
+- [x] Working on Markdown
+- [ ] Limpiar el baño
+- [ ] Entrenamiento
+
+> [!NOTA]
+> Trying things
+
+> [!IMPORTANTE]
+> Put your glasses when you reading books
+
+> [!TIP]
+> Para bajar de 4 el km, hay que entrenar velocidad ⚡
 
 
 <!--
