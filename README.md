@@ -3,7 +3,7 @@
 ```javascript
 console.log("Hello World!")
 ```
-![Super Mario](https://tenor.com/es/view/2d-mario-running-gif-5930085643515150510)
+![Super Mario](https://tenor.com/view/2d-mario-running-gif-5930085643515150510)
 
 
 <!--
