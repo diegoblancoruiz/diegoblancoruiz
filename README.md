@@ -3,16 +3,18 @@
 ```javascript
 console.log("Hello World!")
 ```
+- email:
+  - **diegoblancoruiz@gmail.com**
 
 - [x] Working on Markdown
-- [ ] Limpiar el baño
-- [ ] Entrenamiento
+- [ ] Limpiar el baño 🚾
+- [ ] Entrenamiento 👟
 
-> [!NOTA]
+> [!NOTE]
 > Trying things
 
-> [!IMPORTANTE]
-> Put your glasses when you reading books
+> [!IMPORTANT]
+> Put your glasses when you reading books 👓📚
 
 > [!TIP]
 > Para bajar de 4 el km, hay que entrenar velocidad ⚡
